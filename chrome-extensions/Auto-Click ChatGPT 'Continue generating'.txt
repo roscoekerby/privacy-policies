@@ -1,0 +1,38 @@
+Privacy Policy for Auto-Click ChatGPT 'Continue generating'
+
+Effective Date: 2024/09/12
+
+At ROSCODE, we are committed to protecting your privacy. This Privacy Policy explains how our Chrome extension ("Extension") collects, uses, and discloses information when you use our services. By installing and using our Extension, you agree to the collection and use of information as described in this Privacy Policy.
+
+Information We Collect
+Our Extension does not collect any personal information such as your name, email, or contact information. However, the following types of data may be accessed as part of the functionality of the Extension:
+
+Browser Data:
+
+Our Extension may access the content of the currently active tab in your browser, but only with your explicit action (e.g., clicking on the extension icon or invoking a specific feature).
+Our Extension may interact with specific websites as per its intended functionality, but this interaction is confined to the domains you permit.
+Usage Data:
+
+Our Extension may collect anonymized data about how the Extension is used to improve performance and user experience. This data includes general usage patterns and error reports but does not include any personally identifiable information.
+How We Use the Information
+The data accessed by our Extension is used exclusively to provide the core functionality of the Extension. Specifically, we may use this information to:
+
+Allow the Extension to perform its intended functions, such as modifying web page content, injecting scripts, or interacting with specific domains.
+Improve the functionality and performance of the Extension.
+Third-Party Services
+We do not share, sell, or rent any personal data to third parties. However, the Extension may interact with third-party websites or services as part of its intended functionality. Be aware that we are not responsible for the privacy practices of those websites or services.
+
+Data Security
+We prioritize protecting your information and maintaining the security of the data accessed by our Extension. We implement industry-standard security measures to safeguard the information handled by the Extension.
+
+Your Consent
+By using our Extension, you consent to this Privacy Policy. If you do not agree with the terms of this policy, please uninstall the Extension immediately.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we do, we will post the new policy on this page, along with the effective date of the updated policy. We encourage you to review this page periodically to stay informed of any changes.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: admin@runtime.withroscoe.com
+Address: South Africa
